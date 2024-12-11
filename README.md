@@ -29,4 +29,7 @@ No guarantee other than the intended usage: `cc -S -o/dev/null`.
 
  - From SQLite 3.47.2 `make sqlite3.c`
 
+#### wak.c
+
+ - From https://github.com/raygard/wak @e02236a
 
