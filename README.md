@@ -20,3 +20,9 @@ No guarantee other than the intended usage: `cc -S -o/dev/null`.
 #### PureDOOM.c
 
  - From https://github.com/Daivuk/PureDOOM @48376dd. The `examples/Tests/tests.c` file is used.
+
+#### sqlite3.c
+
+ - From SQLite 3.47.2 `make sqlite3.c`
+
+
