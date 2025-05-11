@@ -10,6 +10,11 @@ No guarantee other than the intended usage: `cc -S -o/dev/null`.
 
  - https://github.com/rui314/chibicc cramped into a single file.
 
+#### janet.c
+
+ - https://github.com/janet-lang/janet @v1.38.0
+ - Combined files created during normal build process. (`build/c/janet.c` + `build/c/shell.c` + `build/janet.h`)
+
 #### minilua.c
 
  - From https://github.com/edubart/minilua @536a134.
