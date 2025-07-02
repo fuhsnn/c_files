@@ -35,3 +35,6 @@ No guarantee other than the intended usage: `cc -S -o/dev/null`.
 
  - From https://github.com/raygard/wak @e02236a
 
+#### wuffs.c
+
+ - From https://github.com/google/wuffs @3387e19, `release/c/wuffs-v0.4.c`
